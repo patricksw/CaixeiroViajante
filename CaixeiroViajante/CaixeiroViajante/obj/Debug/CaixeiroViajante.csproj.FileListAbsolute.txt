@@ -1,0 +1,6 @@
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.dll.config
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csprojResolveAssemblyReference.cache

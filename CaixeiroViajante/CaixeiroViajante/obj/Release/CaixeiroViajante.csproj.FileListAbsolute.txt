@@ -1,0 +1,5 @@
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.dll.config
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\bin\CaixeiroViajante.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\obj\Release\CaixeiroViajante.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\Caixeiro Viajante\CaixeiroViajante\CaixeiroViajante\obj\Release\CaixeiroViajante.pdb

@@ -1,0 +1,211 @@
+﻿/*!
+ * Copyright 2015 
+ * ============================================================
+ * Software_name
+ * ============================================================
+ */
+
+body {
+    float: left;
+    width: 99.8%;
+    min-height: 99.8%;
+    font-family: Segoe UI Light, "Segoe UI Web Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "HelveticaNeue-Light", "Helvetica Neue", Arial, sans-serif‏;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+}
+
+/*!
+ * ============================================================
+ *  CSS header
+ * ============================================================
+ */
+header {
+    margin: 0;
+    width: 100%;
+    height: 60px;
+    background: #366eaa;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* end CSS header==============================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS block
+ * ============================================================
+ */
+aside {
+    margin: 0px auto;
+    min-height: 700px;
+}
+
+article {
+    margin: 0px auto;
+    width: 900px;
+    height: 800px;
+    box-shadow: 2px 3px 5px #888888;
+    background: #ffffff;
+}
+/* end CSS block===============================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS table
+ * ============================================================
+ */
+table {
+    margin: 0px auto;
+    max-width: 200px;
+    min-width: 100px;
+    border: none;
+    font-family: Segoe UI Light, "Segoe UI Web Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "HelveticaNeue-Light", "Helvetica Neue", Arial, sans-serif‏;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+td, th {
+    border: none;
+    padding: 0px;
+}
+
+tr:hover {
+    background-color: #e2e2e2;
+}
+
+/* end CSS table===============================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS forms
+ * ============================================================
+ */
+fieldset {
+    margin: 0px auto;
+    max-width: 850px;
+    border: solid 1px;
+    border-color: #868383;
+    padding: 10px;
+    border-radius: 5px;
+    min-height: 180px;
+}
+
+legend {
+    font-size: 17px;
+    font-weight: bold;
+    color: #030758;
+    font-family: Segoe UI Light, "Segoe UI Web Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "HelveticaNeue-Light", "Helvetica Neue", Arial, sans-serif‏;
+}
+
+/* end CSS forms===============================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS buttons
+ * ============================================================
+ */
+.button {
+    font-family: Segoe UI Light, "Segoe UI Web Light", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "HelveticaNeue-Light", "Helvetica Neue", Arial, sans-serif‏;
+    background: #3d475a;
+    color: #fff;
+    font-size: 16px;
+    min-width: 110px;
+    max-height: 300px;
+    border-radius: 3px;
+}
+
+    .button:disabled {
+        background: #ebebe4;
+        color: #000;
+    }
+
+    .button:hover {
+        color: #3d475a;
+        background: #fff;
+        cursor: pointer;
+    }
+
+        .button:hover:disabled {
+            background: #ebebe4;
+            color: #000;
+            cursor: no-drop;
+        }
+
+/* end CSS buttons=============================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS inputs and labels
+ * ============================================================
+ */
+.input {
+    border-radius: 4px;
+    min-width: 50%;
+    font-size: 15px;
+    font-family: "Courier New";
+    min-height: 25px;
+}
+
+select {
+    color: inherit;
+    padding: 5px;
+    border: 1px solid #b9b5b5;
+    min-width: 50%;
+    font-family: "Courier New";
+}
+
+.label {
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.label-red {
+    color: #670808;
+    font-size: 25.5px;
+}
+
+.label-blue {
+    color: #050c57;
+    font-size: 20px;
+}
+
+.label-green {
+    color: #09532a;
+    font-size: 13px;
+}
+/* end CSS inputs and labels===================================
+ * ============================================================
+ */
+
+/*!
+ * ============================================================
+ *  CSS footer
+ * ============================================================
+ */
+footer {
+    margin-top: 5px;
+    width: 100%;
+    min-height: 120px;
+    float: left;
+    background: #d9d9dc;
+    text-align: center;
+}
+/* end CSS footer==============================================
+ * ============================================================
+ */
+
