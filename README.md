@@ -1,7 +1,7 @@
 # CaixeiroViajante
 Inteligência Artificial - Algoritmo Genético Caixeiro Viajante (ASP.NET C#)
 
-![alt tag](https://raw.githubusercontent.com/patricksw/CaixeiroViajante/CaixeiroViajante/Caixeiro%20Viajante.png)
+![alt tag](https://raw.githubusercontent.com/patricksw/CaixeiroViajante/CaixeiroViajante/imageClass.png)
 
 Para o algoritmo, solução do caixeiro viajante, foi implementado 4 classes:
 
